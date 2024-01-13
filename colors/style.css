@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(0, 255, 255, 0.877);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.container{
+    background-color: blueviolet;
+    width: 70%;
+    height: 500px;
+     display:flex;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: column;
+    margin-top: 70px;
+}
+.main{
+    background-color: brown;
+    width: 50%;
+    height: 300px;    
+}
+
+.main1{
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+
